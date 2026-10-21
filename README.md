@@ -15,10 +15,6 @@ The long-term goal is to combine computational cognitive modelling with game-bas
 - Examine how information sampling influences judgments and decisions.
 - Explore potential sampling-based interventions.
 
-## Demo
-
-https://linyitong1.github.io/mystery-dinner/
-
 ## Current Status
 
 Early-stage prototype / Proof of Concept.
